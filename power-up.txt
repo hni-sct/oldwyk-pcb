@@ -1,0 +1,12 @@
+* I/O:
+ - Voltage: 3.3V 
+ - Cells: VDD_POC_IO, VDD_IO, VSS_IO
+* Core:
+ - Voltage: 1.2V
+ - Cells: VDD_CORE, VSS_CORE
+
+Auszug aus dem TSMC Manual:
+Turn on the higher (I/O) voltage first and then the lower (core) voltage:
+PVDD2POC cell would general POC signal to have the output NMOS and
+PMOS buffers off, so that the crowbar current in the post-driver fingers
+would not occur on the power-up stage.
