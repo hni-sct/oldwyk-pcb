@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=TopSheet.SchDoc
+Record=SheetSymbol|SourceDocument=TopSheet.SchDoc|Designator=U_SchematicPorts|SchDesignator=U_SchematicPorts|FileName=SchematicPorts.SchDoc|SymbolType=Normal|RawFileName=SchematicPorts.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TopSheet.SchDoc|Designator=U_SchematicPowerSupply|SchDesignator=U_SchematicPowerSupply|FileName=SchematicPowerSupply.SchDoc|SymbolType=Normal|RawFileName=SchematicPowerSupply.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TopSheet.SchDoc|Designator=U_SchematicPULPiniMCU|SchDesignator=U_SchematicPULPiniMCU|FileName=SchematicPULPiniMCU.SchDoc|SymbolType=Normal|RawFileName=SchematicPULPiniMCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
